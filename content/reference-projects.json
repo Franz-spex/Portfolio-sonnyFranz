@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "web-ai-1",
+    "slug": "featured-ai-reel",
+    "title": "Featured AI Reel",
+    "description": "A featured reel exploring AI-generated visual storytelling.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-main-ai-reel-CQIgaxX8.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/16orY7UzcgRUdmiViZTgssLTqaND-io3M/preview"
+    },
+    "source": "https://drive.google.com/file/d/16orY7UzcgRUdmiViZTgssLTqaND-io3M/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/featured-ai-reel.jpg"
+  },
+  {
+    "id": "web-ai-2",
+    "slug": "ai-cinematic-reel",
+    "title": "AI Cinematic Reel",
+    "description": "An image-to-video reel combining AI storyboarding and cinematic visuals.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-lambo-kgW4j-sH.png",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1ONs4LYxoz5T_xuwHy6RfvOHfw_05IERZ/preview"
+    },
+    "source": "https://drive.google.com/file/d/1ONs4LYxoz5T_xuwHy6RfvOHfw_05IERZ/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-cinematic-reel.png"
+  },
+  {
+    "id": "web-ai-3",
+    "slug": "asin-band-rock-group",
+    "title": "ASIN - Band Rock Group",
+    "description": "An AI music video project for ASIN rock band.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-asin-rock-band-BXvEwMGL.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1v5XANdlqducjlb6SLp8vO9PN-Qo84Pe1/preview"
+    },
+    "source": "https://drive.google.com/file/d/1v5XANdlqducjlb6SLp8vO9PN-Qo84Pe1/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/asin-band-rock-group.jpg"
+  },
+  {
+    "id": "web-ai-4",
+    "slug": "alcon-mobile",
+    "title": "Alcon Mobile",
+    "description": "An AI video project featuring Alcon Mobile.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-alcon-mobile-DyX32iA0.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1iHvpU8hm5tFyV7PwxatPgZJoQOYVpygM/preview"
+    },
+    "source": "https://drive.google.com/file/d/1iHvpU8hm5tFyV7PwxatPgZJoQOYVpygM/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/alcon-mobile.jpg"
+  },
+  {
+    "id": "web-ai-5",
+    "slug": "my-services-showreel",
+    "title": "Creative Services — Showreel",
+    "description": "A creative-services showreel combining AI imagery and motion.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-my-services-B-ZNuGxu.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1KivjsmvQD_rARb3d_MiVHXIkPxx05aT2/preview"
+    },
+    "source": "https://drive.google.com/file/d/1KivjsmvQD_rARb3d_MiVHXIkPxx05aT2/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/my-services-showreel.jpg"
+  },
+  {
+    "id": "web-ai-6",
+    "slug": "uae-flag-day-united-arab-emirates",
+    "title": "UAE Flag Day — United Arab Emirates",
+    "description": "An AI-generated film celebrating UAE Flag Day.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-uae-flag-day-CphVmAGF.jpg",
+    "media": {
+      "type": "video",
+      "src": "https://www.alvinjampazar.com/__l5e/assets-v1/b8980a29-8939-4bab-beb1-886b7241f98a/uae-flag-day.mp4"
+    },
+    "source": "https://www.alvinjampazar.com/__l5e/assets-v1/b8980a29-8939-4bab-beb1-886b7241f98a/uae-flag-day.mp4",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/uae-flag-day-united-arab-emirates.jpg"
+  },
+  {
+    "id": "web-ai-7",
+    "slug": "securevisa-dfsa-difc-licensing",
+    "title": "SecureVisa — DFSA & DIFC Licensing",
+    "description": "An AI explainer about DFSA and DIFC licensing.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-securevisa-dfsa-DgThEUoh.jpg",
+    "media": {
+      "type": "video",
+      "src": "https://www.alvinjampazar.com/__l5e/assets-v1/07a1ad02-9be0-4d94-ac29-96285ce06cd3/Story_SecureVisa_DFSA_DIFC_Licensing.mp4"
+    },
+    "source": "https://www.alvinjampazar.com/__l5e/assets-v1/07a1ad02-9be0-4d94-ac29-96285ce06cd3/Story_SecureVisa_DFSA_DIFC_Licensing.mp4",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/securevisa-dfsa-difc-licensing.jpg"
+  },
+  {
+    "id": "web-ai-8",
+    "slug": "securevisa-vara-broker-dealer",
+    "title": "SecureVisa — VARA Broker Dealer",
+    "description": "An AI video exploring VARA broker-dealer licensing.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-securevisa-broker-D5C7tPgG.jpg",
+    "media": {
+      "type": "video",
+      "src": "https://www.alvinjampazar.com/__l5e/assets-v1/08c1c0c8-1387-4c25-88f8-28053e8f402f/Story_SecureVisa_VARA_Broker_Dealer.mp4"
+    },
+    "source": "https://www.alvinjampazar.com/__l5e/assets-v1/08c1c0c8-1387-4c25-88f8-28053e8f402f/Story_SecureVisa_VARA_Broker_Dealer.mp4",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/securevisa-vara-broker-dealer.jpg"
+  },
+  {
+    "id": "web-ai-9",
+    "slug": "securevisa-vara-virtual-asset-company",
+    "title": "SecureVisa — VARA Virtual Asset Company",
+    "description": "An AI video about a VARA virtual asset company.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-securevisa-virtual-asset-CAqVkQpO.jpg",
+    "media": {
+      "type": "video",
+      "src": "https://www.alvinjampazar.com/__l5e/assets-v1/165b48f5-733e-4847-8e86-4bfd246752d3/Story_SecureVisa_VARA_Virtual_Asset_Company.mp4"
+    },
+    "source": "https://www.alvinjampazar.com/__l5e/assets-v1/165b48f5-733e-4847-8e86-4bfd246752d3/Story_SecureVisa_VARA_Virtual_Asset_Company.mp4",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/securevisa-vara-virtual-asset-company.jpg"
+  },
+  {
+    "id": "web-ai-10",
+    "slug": "father-s-day-tribute",
+    "title": "Father's Day Tribute",
+    "description": "An AI-assisted Father’s Day tribute film.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-fathers-day-DSAhn5Bm.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1W-8DIGe95Gby4O9zv3IgHU80XEur9zP4/preview"
+    },
+    "source": "https://drive.google.com/file/d/1W-8DIGe95Gby4O9zv3IgHU80XEur9zP4/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/father-s-day-tribute.jpg"
+  },
+  {
+    "id": "web-ai-11",
+    "slug": "story-of-prysbeter-elleza-palanca",
+    "title": "Story of Prysbeter Elleza Palanca",
+    "description": "A tribute film using generative imagery and motion to tell a personal story.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-elleza-butterfly-D5CDwtd7.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/16vQLZv9EhMjjFEN5VuiI9HLllkQGdDDr/preview"
+    },
+    "source": "https://drive.google.com/file/d/16vQLZv9EhMjjFEN5VuiI9HLllkQGdDDr/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/story-of-prysbeter-elleza-palanca.jpg"
+  },
+  {
+    "id": "web-ai-12",
+    "slug": "mother-s-day",
+    "title": "Mother's Day",
+    "description": "An AI video created around Mother’s Day.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/thumb-mothers-day-DoCo5ND4.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/16CoHARvJgWSaFfubg8S-jLIL9eH4M0mE/preview"
+    },
+    "source": "https://drive.google.com/file/d/16CoHARvJgWSaFfubg8S-jLIL9eH4M0mE/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/mother-s-day.jpg"
+  },
+  {
+    "id": "web-ai-13",
+    "slug": "ai-video-project-1",
+    "title": "AI Video Project 1",
+    "description": "An exploration of AI-generated video and visual storytelling.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-proj1-DAm_NSdH.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1RPe7OKJa3H6Pym6A4l0jOLwhRWqr-IYl/preview"
+    },
+    "source": "https://drive.google.com/file/d/1RPe7OKJa3H6Pym6A4l0jOLwhRWqr-IYl/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-video-project-1.jpg"
+  },
+  {
+    "id": "web-ai-14",
+    "slug": "ai-video-project-2",
+    "title": "AI Video Project 2",
+    "description": "A second exploration of AI-generated video sequences.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-proj2-Bm58s4Ku.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1IqWKt-GraiGZA4boK_jqpekUazUJpFHN/preview"
+    },
+    "source": "https://drive.google.com/file/d/1IqWKt-GraiGZA4boK_jqpekUazUJpFHN/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-video-project-2.jpg"
+  },
+  {
+    "id": "web-ai-15",
+    "slug": "ai-cinematic-storyboard-video",
+    "title": "AI Cinematic Storyboard Video",
+    "description": "A cinematic sequence developed through AI storyboarding.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-2-DCcITVuV.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1UTqDjIBS5gO-A3M8Vlbq_5iReb8QgKBl/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1UTqDjIBS5gO-A3M8Vlbq_5iReb8QgKBl/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-cinematic-storyboard-video.jpg"
+  },
+  {
+    "id": "web-ai-16",
+    "slug": "ai-motion-visual-storytelling",
+    "title": "AI Motion & Visual Storytelling",
+    "description": "AI-generated imagery brought together through motion and visual storytelling.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-3-HbnXYHHw.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1VdKxuaLvsKwztPrCLvRPKsX2O9SS2SP5/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1VdKxuaLvsKwztPrCLvRPKsX2O9SS2SP5/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-motion-visual-storytelling.jpg"
+  },
+  {
+    "id": "web-ai-17",
+    "slug": "ai-neural-network-animation",
+    "title": "AI Neural Network Animation",
+    "description": "An AI animation exploring neural-network imagery.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-4-ufjaulrR.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1y6_U2gZzDKOW5rV1rA1AtBJT-EXsrg9o/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1y6_U2gZzDKOW5rV1rA1AtBJT-EXsrg9o/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-neural-network-animation.jpg"
+  },
+  {
+    "id": "web-ai-18",
+    "slug": "ai-storyboard-reel-production",
+    "title": "AI Storyboard Reel Production",
+    "description": "A reel exploring the transition from storyboard to AI-generated film.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-5-CATNFw9k.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1H97SvZrt3o4wcFqgMsh-plTu7nyeDWJx/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1H97SvZrt3o4wcFqgMsh-plTu7nyeDWJx/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-storyboard-reel-production.jpg"
+  },
+  {
+    "id": "web-ai-19",
+    "slug": "ai-cinematic-light-trail-video",
+    "title": "AI Cinematic Light Trail Video",
+    "description": "A cinematic AI video exploring light and movement.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-6-B_3Pfs5I.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1_mo7JOBLlKpGQgvyGGdhCKlcJl9MkPaa/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1_mo7JOBLlKpGQgvyGGdhCKlcJl9MkPaa/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-cinematic-light-trail-video.jpg"
+  },
+  {
+    "id": "web-ai-20",
+    "slug": "ai-motion-design-showcase",
+    "title": "AI Motion Design Showcase",
+    "description": "A showcase of AI-driven motion design.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-7-Cbasd4G6.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1chbrT9lVa08_gk88JH3SlNUVyy25S3de/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1chbrT9lVa08_gk88JH3SlNUVyy25S3de/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-motion-design-showcase.jpg"
+  },
+  {
+    "id": "web-ai-21",
+    "slug": "ai-creative-video-reel",
+    "title": "AI Creative Video Reel",
+    "description": "A collection of creative AI video sequences.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-8-DtrUtvZl.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/14XahtquMBzZ3c7lgYKQgGswzBMZeE8DN/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/14XahtquMBzZ3c7lgYKQgGswzBMZeE8DN/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-creative-video-reel.jpg"
+  },
+  {
+    "id": "web-ai-22",
+    "slug": "ai-crypto-platform-a",
+    "title": "AI Crypto Platform A",
+    "description": "An AI video concept for a crypto platform.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-crypto-a-CZA_MaUu.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1PzPxR_lZzu2uD9pftgvoIxEys-_MfIj-/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1PzPxR_lZzu2uD9pftgvoIxEys-_MfIj-/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-crypto-platform-a.jpg"
+  },
+  {
+    "id": "web-ai-23",
+    "slug": "ai-crypto-platform-b",
+    "title": "AI Crypto Platform B",
+    "description": "A second AI video concept for a crypto platform.",
+    "kind": "AI Video",
+    "categories": [
+      "ai-films"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ai-video-thumb-crypto-b-CWoprW_d.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1PStGsFhAvjI5CXbR4KCMZb6U4ITpSr24/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1PStGsFhAvjI5CXbR4KCMZb6U4ITpSr24/view",
+    "reference": "https://www.alvinjampazar.com/services/ai",
+    "coverSrc": "assets/reference-projects/ai-crypto-platform-b.jpg"
+  },
+  {
+    "id": "web-securevisa-brand-identity",
+    "slug": "securevisa-brand-identity",
+    "title": "SecureVisa Brand Identity",
+    "description": "A brand identity system for a business consultancy.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/securevisa-thumb-BXJhbt1E.jpg",
+    "source": "https://www.securevisanow.com/",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/securevisa-brand-identity.jpg"
+  },
+  {
+    "id": "web-macmillan-real-estate",
+    "slug": "macmillan-real-estate",
+    "title": "Macmillan Real Estate",
+    "description": "Real Estate Company brand identity.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/macmillan-thumb-BAk3yaYi.jpg",
+    "source": "https://drive.google.com/file/d/15cRIcXl_4T_yuIQWLERjJsQRiDKz4QtD/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/macmillan-real-estate.jpg"
+  },
+  {
+    "id": "web-itsec-cybersecurity",
+    "slug": "itsec-cybersecurity",
+    "title": "ITSEC Cybersecurity",
+    "description": "Brand identity for a cybersecurity company.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/itsec-thumb-Dys7oo1k.jpg",
+    "source": "https://www.itsecnow.com/",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/itsec-cybersecurity.jpg"
+  },
+  {
+    "id": "web-dsps-laboratory",
+    "slug": "dsps-laboratory",
+    "title": "DSPS Laboratory",
+    "description": "Laboratory Science School branding.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/dsps-thumb-RPCLJk6-.jpg",
+    "source": "https://drive.google.com/file/d/1DzV74nA6Mjl_5qcTgHp0ctYIzrsKriLf/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/dsps-laboratory.jpg"
+  },
+  {
+    "id": "web-salam-autism-school",
+    "slug": "salam-autism-school",
+    "title": "SALAM Autism School",
+    "description": "Autism School brand identity.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/salam-thumb-xZn9DS-Z.jpg",
+    "source": "https://drive.google.com/file/d/1MXgh1rQNMGdUksqf4oCs17WqfVNaSFD2/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/salam-autism-school.jpg"
+  },
+  {
+    "id": "web-almasar-delivery",
+    "slug": "almasar-delivery",
+    "title": "ALMASAR Delivery",
+    "description": "Delivery Company branding.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/almasar-thumb-BrnvJ6z-.jpg",
+    "source": "https://drive.google.com/file/d/1jw8bbASc40bD3pVwV27lWyu9c9vZs0v4/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/almasar-delivery.jpg"
+  },
+  {
+    "id": "web-habit-mahshi-restaurant",
+    "slug": "habit-mahshi-restaurant",
+    "title": "Habit Mahshi Restaurant",
+    "description": "Arabic Food Restaurant branding.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/habitmahshi-thumb-bzOEh0VL.jpg",
+    "source": "https://drive.google.com/file/d/1mycx-T17ZnFH2qRC-jbs5di_rUZNPsf4/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/habit-mahshi-restaurant.jpg"
+  },
+  {
+    "id": "web-bake-point-pastry",
+    "slug": "bake-point-pastry",
+    "title": "Bake Point Pastry",
+    "description": "Pastry & Bread Company UAE.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/bakepoint-thumb-CtA-53kx.jpg",
+    "source": "https://drive.google.com/file/d/1a0hkNEfDVR-unOZKDtFUdGI_6BYXpaFm/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/bake-point-pastry.jpg"
+  },
+  {
+    "id": "web-artistic-imagery-ai",
+    "slug": "artistic-imagery-ai",
+    "title": "Artistic Imagery AI",
+    "description": "AI Advertising Company.",
+    "kind": "Brand Identity",
+    "categories": [
+      "brand-identity"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/artisticimagery-thumb-DCBr8rPq.jpg",
+    "source": "https://drive.google.com/file/d/1Bkm682V74IBkge32Uq8WvA4AjQrf5f-M/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "coverSrc": "assets/reference-projects/artistic-imagery-ai.jpg"
+  },
+  {
+    "id": "web-wedding-film",
+    "slug": "wedding-film",
+    "title": "Wedding Film",
+    "description": "Cinematic Wedding Coverage.",
+    "kind": "Film",
+    "categories": [
+      "videography"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/wedding-thumb-Dvcc0Kg8.jpg",
+    "source": "https://drive.google.com/file/d/1YpsnJBB2Ypx7Fub-3x8PvLwBHpAMi6L-/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1YpsnJBB2Ypx7Fub-3x8PvLwBHpAMi6L-/preview"
+    },
+    "coverSrc": "assets/reference-projects/wedding-film.jpg"
+  },
+  {
+    "id": "web-corporate-event",
+    "slug": "corporate-event",
+    "title": "Corporate Event",
+    "description": "Corporate Event Coverage.",
+    "kind": "Film",
+    "categories": [
+      "videography"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/event1-thumb-Cv63OgG_.jpg",
+    "source": "https://drive.google.com/file/d/1A-0MdYbHS3LTDUESRhbe16mPL-P6_tvE/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1A-0MdYbHS3LTDUESRhbe16mPL-P6_tvE/preview"
+    },
+    "coverSrc": "assets/reference-projects/corporate-event.jpg"
+  },
+  {
+    "id": "web-fashion-ramp",
+    "slug": "fashion-ramp",
+    "title": "Fashion Ramp",
+    "description": "Fashion Show Coverage.",
+    "kind": "Film",
+    "categories": [
+      "videography"
+    ],
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ramp-thumb-CWxe82_S.jpg",
+    "source": "https://drive.google.com/file/d/1Eg-XqQTTfnJfBH1y8b_q49lEbC1p-Ugk/view",
+    "reference": "https://www.alvinjampazar.com/portfolio",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1Eg-XqQTTfnJfBH1y8b_q49lEbC1p-Ugk/preview"
+    },
+    "coverSrc": "assets/reference-projects/fashion-ramp.jpg"
+  },
+  {
+    "id": "product-2050-app",
+    "slug": "2050-app",
+    "title": "2050 App",
+    "description": "A hyper-local social platform connecting people with nearby communities.",
+    "source": "https://play.google.com/store/apps/details?id=app.ceebs.android&hl=en&pli=1",
+    "kind": "Mobile app",
+    "sourceLabel": "View 2050 on Google Play",
+    "categories": [
+      "product-design"
+    ],
+    "reference": "https://play.google.com/store/apps/details?id=app.ceebs.android&hl=en&pli=1",
+    "coverSrc": "assets/skill-illustrations/product-design.png"
+  },
+  {
+    "id": "product-restaurant-dashboard",
+    "slug": "restaurant-platform-dashboard",
+    "title": "Restaurant Platform — Dashboard",
+    "description": "A restaurant platform dashboard. The live platform requires an account to sign in.",
+    "source": "https://mvp-2-0-0-2.vercel.app/dashboard",
+    "kind": "Product platform",
+    "sourceLabel": "Open dashboard · Login required",
+    "categories": [
+      "product-design"
+    ],
+    "reference": "https://mvp-2-0-0-2.vercel.app/dashboard",
+    "coverSrc": "assets/skill-illustrations/product-design.png"
+  },
+  {
+    "id": "social-design-collection",
+    "slug": "social-media-designs",
+    "title": "Social Media Designs",
+    "description": "Social posts and dedicated carousel collections across creative services, branding, technology and marketing.",
+    "kind": "Design collection",
+    "categories": [
+      "social-media"
+    ],
+    "coverSrc": "assets/skill-illustrations/social-media.png",
+    "source": "https://www.alvinjampazar.com/portfolio?category=social",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=social",
+    "gallery": [
+      {
+        "alt": "SecureVisa Group turnkey solutions – license cybersecurity compliance tech stack with mobile and tablet dashboard mockups",
+        "src": "assets/social-designs/carousel-a-Tcj1VvMc.jpg",
+        "group": "SecureVisa Group Carousel",
+        "original": "https://www.alvinjampazar.com/assets/carousel-a-Tcj1VvMc.jpg"
+      },
+      {
+        "alt": "SecureVisa Group compliance application – integrated with strong tech stack showing multiple device screens and analytics dashboards",
+        "src": "assets/social-designs/carousel-b-D-nVF-Qw.jpg",
+        "group": "SecureVisa Group Carousel",
+        "original": "https://www.alvinjampazar.com/assets/carousel-b-D-nVF-Qw.jpg"
+      },
+      {
+        "alt": "SecureVisa Group key features – instant license approval, advanced cyber measures, secure application integration, and risk prevention",
+        "src": "assets/social-designs/carousel-c-CLId2qdE.jpg",
+        "group": "SecureVisa Group Carousel",
+        "original": "https://www.alvinjampazar.com/assets/carousel-c-CLId2qdE.jpg"
+      },
+      {
+        "alt": "SecureVisa Group contact slide – speak with an expert, phone number and website with cinematic device mockups",
+        "src": "assets/social-designs/carousel-d-BjmiU4QW.jpg",
+        "group": "SecureVisa Group Carousel",
+        "original": "https://www.alvinjampazar.com/assets/carousel-d-BjmiU4QW.jpg"
+      },
+      {
+        "alt": "Nexus Crypto OTC platform slide 1 – customizable and ready to launch, 100% VARA aligned with mobile app and laptop trading interface",
+        "src": "assets/social-designs/nexus-otc-01-CvCmkpZq.jpg",
+        "group": "Nexus Crypto OTC Carousel",
+        "original": "https://www.alvinjampazar.com/assets/nexus-otc-01-CvCmkpZq.jpg"
+      },
+      {
+        "alt": "Nexus Crypto OTC platform slide 2 – build for VARA from day one, Dubai-based OTC operation with live order book and trading charts",
+        "src": "assets/social-designs/nexus-otc-02-CNbtRtF6.jpg",
+        "group": "Nexus Crypto OTC Carousel",
+        "original": "https://www.alvinjampazar.com/assets/nexus-otc-02-CNbtRtF6.jpg"
+      },
+      {
+        "alt": "Nexus Crypto OTC platform slide 3 – integrated custody and fiat rails with VARA approved wallet infrastructure and secure APIs",
+        "src": "assets/social-designs/nexus-otc-03-BMlbO2om.jpg",
+        "group": "Nexus Crypto OTC Carousel",
+        "original": "https://www.alvinjampazar.com/assets/nexus-otc-03-BMlbO2om.jpg"
+      },
+      {
+        "alt": "Nexus Crypto OTC platform slide 4 – built-in compliance with native KYC, KYT, AML, transaction monitoring and risk scoring",
+        "src": "assets/social-designs/nexus-otc-04-B5fTf897.jpg",
+        "group": "Nexus Crypto OTC Carousel",
+        "original": "https://www.alvinjampazar.com/assets/nexus-otc-04-B5fTf897.jpg"
+      },
+      {
+        "alt": "SVG crypto licensing made easy – bring the client we do the rest, blue and white minimalist design",
+        "src": "assets/social-designs/svg-crypto-licensing-1-CITOknRr.jpg",
+        "group": "SVG Crypto Licensing Carousel",
+        "original": "https://www.alvinjampazar.com/assets/svg-crypto-licensing-1-CITOknRr.jpg"
+      },
+      {
+        "alt": "SVG lost leads missed commissions – clients asking about crypto licenses in Dubai promotional carousel slide",
+        "src": "assets/social-designs/svg-crypto-licensing-2-Dh7goIG3.jpg",
+        "group": "SVG Crypto Licensing Carousel",
+        "original": "https://www.alvinjampazar.com/assets/svg-crypto-licensing-2-Dh7goIG3.jpg"
+      },
+      {
+        "alt": "SVG partner program – join SVG partner program, refer crypto clients, get paid up to 20% commission, no experience needed",
+        "src": "assets/social-designs/svg-crypto-licensing-3-BNi7M9tk.jpg",
+        "group": "SVG Crypto Licensing Carousel",
+        "original": "https://www.alvinjampazar.com/assets/svg-crypto-licensing-3-BNi7M9tk.jpg"
+      },
+      {
+        "alt": "SVG VARA trusted by founders lawyers advisors worldwide – trusted by founders, lawyers and advisors, SVG is force behind Dubai's complex VARA submissions",
+        "src": "assets/social-designs/svg-crypto-licensing-4-BmdTjlVZ.jpg",
+        "group": "SVG Crypto Licensing Carousel",
+        "original": "https://www.alvinjampazar.com/assets/svg-crypto-licensing-4-BmdTjlVZ.jpg"
+      },
+      {
+        "alt": "Turnkey crypto solution social media design – green dark theme with trading interface",
+        "src": "assets/social-designs/turnkey-green-2-CedoH8sy.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-green-2-CedoH8sy.jpg"
+      },
+      {
+        "alt": "Turnkey crypto solution social media design – clean white theme layout",
+        "src": "assets/social-designs/turnkey-white-2-CDBiyt0i.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-white-2-CDBiyt0i.jpg"
+      },
+      {
+        "alt": "Turnkey crypto solution social media design – dark premium theme",
+        "src": "assets/social-designs/turnkey-dark-2-CDQ4gn0o.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-dark-2-CDQ4gn0o.jpg"
+      },
+      {
+        "alt": "GCGRA gaming regulatory authority social media post – dark theme",
+        "src": "assets/social-designs/gcgra-dark-Cjns4tlV.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/gcgra-dark-Cjns4tlV.jpg"
+      },
+      {
+        "alt": "GCGRA gaming regulatory authority social media post – white theme",
+        "src": "assets/social-designs/gcgra-white-DArytFmA.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/gcgra-white-DArytFmA.jpg"
+      },
+      {
+        "alt": "GCGRA gaming regulatory authority social media post – gold accent theme",
+        "src": "assets/social-designs/gcgra-gold-C0lRcSQ-.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/gcgra-gold-C0lRcSQ-.jpg"
+      },
+      {
+        "alt": "Turnkey exchange platform promotional design – white background",
+        "src": "assets/social-designs/turnkey-white-3-C-a3z9G6.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-white-3-C-a3z9G6.jpg"
+      },
+      {
+        "alt": "Turnkey exchange platform promotional design – black background",
+        "src": "assets/social-designs/turnkey-black-3-BEXmLEbF.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-black-3-BEXmLEbF.jpg"
+      },
+      {
+        "alt": "Turnkey exchange platform promotional design – gold accent",
+        "src": "assets/social-designs/turnkey-gold-3-g1T5ydUi.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-gold-3-g1T5ydUi.jpg"
+      },
+      {
+        "alt": "GCGRA gaming compliance social media graphic – dark theme",
+        "src": "assets/social-designs/gcgra-gaming-dark-Bf0D7rxi.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/gcgra-gaming-dark-Bf0D7rxi.jpg"
+      },
+      {
+        "alt": "Cryptocurrency exchange platform design – white clean layout",
+        "src": "assets/social-designs/crypto-white-CzAYV9No.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-white-CzAYV9No.jpg"
+      },
+      {
+        "alt": "GCGRA gaming compliance social media graphic – gold theme",
+        "src": "assets/social-designs/gcgra-gaming-gold-F2_3-l6B.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/gcgra-gaming-gold-F2_3-l6B.jpg"
+      },
+      {
+        "alt": "LinkedIn crypto trading platform promotional post – variant 1",
+        "src": "assets/social-designs/linkedin-crypto-1-s7RjZrcC.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/linkedin-crypto-1-s7RjZrcC.jpg"
+      },
+      {
+        "alt": "LinkedIn crypto trading platform promotional post – variant 2",
+        "src": "assets/social-designs/linkedin-crypto-2-AurSuMBw.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/linkedin-crypto-2-AurSuMBw.jpg"
+      },
+      {
+        "alt": "LinkedIn crypto trading platform promotional post – variant 3",
+        "src": "assets/social-designs/linkedin-crypto-3-C8pYnh1Q.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/linkedin-crypto-3-C8pYnh1Q.jpg"
+      },
+      {
+        "alt": "Broker dealer fintech social media design – variant 1",
+        "src": "assets/social-designs/broker-dealer-1-NdWBVScX.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/broker-dealer-1-NdWBVScX.jpg"
+      },
+      {
+        "alt": "Broker dealer fintech social media design – variant 2",
+        "src": "assets/social-designs/broker-dealer-2-Jl4EbzN_.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/broker-dealer-2-Jl4EbzN_.jpg"
+      },
+      {
+        "alt": "Broker dealer fintech social media design – variant 3",
+        "src": "assets/social-designs/broker-dealer-3-Bi4Gvos4.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/broker-dealer-3-Bi4Gvos4.jpg"
+      },
+      {
+        "alt": "Bitcoin 49K milestone crypto social media post – variant 1",
+        "src": "assets/social-designs/crypto-49k-1-CPspdk_l.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-49k-1-CPspdk_l.jpg"
+      },
+      {
+        "alt": "Bitcoin 49K milestone crypto social media post – variant 2",
+        "src": "assets/social-designs/crypto-49k-2-BQ6KpOU5.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-49k-2-BQ6KpOU5.jpg"
+      },
+      {
+        "alt": "Bitcoin 49K milestone crypto social media post – variant 3",
+        "src": "assets/social-designs/crypto-49k-3-DDFTAqS6.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-49k-3-DDFTAqS6.jpg"
+      },
+      {
+        "alt": "Turnkey white-label crypto solution – dark theme promotional design",
+        "src": "assets/social-designs/turnkey-solution-dark-CxSihjIc.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/turnkey-solution-dark-CxSihjIc.jpg"
+      },
+      {
+        "alt": "Broker dealer platform social media design – white background",
+        "src": "assets/social-designs/broker-dealer-white-DIOGMJnB.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/broker-dealer-white-DIOGMJnB.jpg"
+      },
+      {
+        "alt": "Crypto trading platform social media design – purple theme",
+        "src": "assets/social-designs/crypto-platform-purple-BAuBZM1_.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-platform-purple-BAuBZM1_.jpg"
+      },
+      {
+        "alt": "Cryptocurrency platform social media design – dark variant",
+        "src": "assets/social-designs/crypto-platform-b-DMyjlog5.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-platform-b-DMyjlog5.jpg"
+      },
+      {
+        "alt": "ITSEC cybersecurity social media post – network protection theme",
+        "src": "assets/social-designs/itsec-security-lSajfQon.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/itsec-security-lSajfQon.jpg"
+      },
+      {
+        "alt": "ITSEC white label crypto platform – dark theme with VARA compliance and phone mockup",
+        "src": "assets/social-designs/crypto-platform-01-CSw_fYCB.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-platform-01-CSw_fYCB.jpg"
+      },
+      {
+        "alt": "ITSEC white label crypto platform – white background with hand holding phone mockup",
+        "src": "assets/social-designs/crypto-platform-02-DBa7SvS_.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-platform-02-DBa7SvS_.jpg"
+      },
+      {
+        "alt": "ITSEC white label crypto platform – gold accent theme with triple phone mockup display",
+        "src": "assets/social-designs/crypto-platform-03-C8xXqY1Y.jpg",
+        "group": "Social Media Posts",
+        "original": "https://www.alvinjampazar.com/assets/crypto-platform-03-C8xXqY1Y.jpg"
+      },
+      {
+        "src": "assets/social-designs/uploads/digital-services.png",
+        "alt": "Digital services: social, brand and web",
+        "group": "Digital services: social, brand and web Carousel",
+        "panels": 3,
+        "originalFile": "Digital services_ social, brand, and web-1.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/creava-uniform.png",
+        "alt": "CREAVA futuristic uniform",
+        "group": "New social posts",
+        "originalFile": "Woman in a CREAVA futuristic uniform-11.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/advertising-with-ai.png",
+        "alt": "Advertising with AI — snail and rabbit",
+        "group": "New social posts",
+        "originalFile": "Snail and rabbit_ Advertising with AI-9.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/metallic-brand.png",
+        "alt": "Metallic brand identity campaign",
+        "group": "New social posts",
+        "originalFile": "Purple Blue Metallic Brand Sculpture-8.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/interactive-displays.png",
+        "alt": "Interactive display solutions",
+        "group": "New social posts",
+        "originalFile": "Present clearly, guide instantly-6.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/real-enquiries.png",
+        "alt": "Performance marketing — real enquiries",
+        "group": "New social posts",
+        "originalFile": "Turn clicks into real enquiries-5.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/cinematic-ideas.png",
+        "alt": "Big ideas, cinematic videos",
+        "group": "New social posts",
+        "originalFile": "Big Ideas, Cinematic Videos-4.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/solutions-forward.png",
+        "alt": "Solutions that move you forward",
+        "group": "New social posts",
+        "originalFile": "Solutions That Move You Forward-3.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/built-for-next.png",
+        "alt": "Built for what’s next",
+        "group": "New social posts",
+        "originalFile": "Built for what’s next_ woman and robot-2.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/digital-team.png",
+        "alt": "Your digital solution team",
+        "group": "New social posts",
+        "originalFile": "White Robot Guiding Digital Team-1.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/social-management.png",
+        "alt": "Social media management",
+        "group": "Social media management Carousel",
+        "panels": 3,
+        "originalFile": "Social media management in action-6.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/alcon-animation.png",
+        "alt": "Alcon animation services",
+        "group": "Alcon animation services Carousel",
+        "panels": 3,
+        "originalFile": "Alcon animation trio_ 2D, motion, 3D-5.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/alcon-creative.png",
+        "alt": "Alcon creative media services",
+        "group": "Alcon creative media services Carousel",
+        "panels": 3,
+        "originalFile": "Alcon creative media services triptych-4.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/real-estate-journey.png",
+        "alt": "From vision to reality",
+        "group": "From vision to reality Carousel",
+        "panels": 3,
+        "originalFile": "From vision to reality_ real estate journey-3.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/ramadan.png",
+        "alt": "Ramadan greetings",
+        "group": "Ramadan greetings Carousel",
+        "panels": 3,
+        "originalFile": "Charcoal-gold Ramadan mosque and lantern triptych-2.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/ai-camera.png",
+        "alt": "Bring your ideas to life with AI video",
+        "group": "New social posts",
+        "originalFile": "Glowing AI camera in a forest-10.png"
+      },
+      {
+        "src": "assets/social-designs/uploads/jellyfish-web.png",
+        "alt": "Your website, your next big opportunity",
+        "group": "New social posts",
+        "originalFile": "Luminous jellyfish website opportunity-7.png"
+      }
+    ]
+  },
+  {
+    "id": "motion-protect-your-home-from-pests",
+    "slug": "protect-your-home-from-pests",
+    "title": "Protect Your Home from Pests",
+    "description": "Educational animation for pest awareness campaign.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/protect-your-home-from-pests.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/protect-pest-thumb-BjNps4dz.jpg",
+    "media": {
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1u_OZvDZh5_tsACSxWSMKlXQBjJYwUeUd/preview"
+    },
+    "source": "https://drive.google.com/file/d/1u_OZvDZh5_tsACSxWSMKlXQBjJYwUeUd/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-family-pest-safety",
+    "slug": "family-pest-safety",
+    "title": "Family Pest Safety",
+    "description": "Character animation explaining home protection.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/family-pest-safety.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/family-pest-thumb-DDvWjVXT.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/11cZx3Z8JJA_VNqGFAkCX2UC_oQROjxYl/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/11cZx3Z8JJA_VNqGFAkCX2UC_oQROjxYl/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-waste-collection-guide",
+    "slug": "waste-collection-guide",
+    "title": "Waste Collection Guide",
+    "description": "Municipality awareness — proper waste disposal.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/waste-collection-guide.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/waste-collection-thumb-C0r08j1V.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1RNEI-1cmB2mbEpePlWBwATvPR8nxlJZK/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1RNEI-1cmB2mbEpePlWBwATvPR8nxlJZK/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-old-furniture-disposal",
+    "slug": "old-furniture-disposal",
+    "title": "Old Furniture Disposal",
+    "description": "Tadweer-style explainer on bulky waste handling.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/old-furniture-disposal.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/old-furniture-thumb-DgBT50QQ.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1SE-R-RwGT6R1jhLsxoYlqTxtLGXaRIk4/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1SE-R-RwGT6R1jhLsxoYlqTxtLGXaRIk4/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-chemical-safety",
+    "slug": "chemical-safety",
+    "title": "Chemical Safety",
+    "description": "Workplace safety procedures animation.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/chemical-safety.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/chemical-safety-thumb-B140zoUo.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1JIK7cnpoaL5wBkLpNk05nrsnfumOtcLR/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1JIK7cnpoaL5wBkLpNk05nrsnfumOtcLR/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-safe-pesticide-handling",
+    "slug": "safe-pesticide-handling",
+    "title": "Safe Pesticide Handling",
+    "description": "Informative animation for proper pesticide use.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/safe-pesticide-handling.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/safety-pesticide-thumb-Bj75H715.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1SDhe1_LZ42ZvEBjP7X5mjRYyLFu5GbZt/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1SDhe1_LZ42ZvEBjP7X5mjRYyLFu5GbZt/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-ants-everywhere",
+    "slug": "ants-everywhere",
+    "title": "Ants Everywhere",
+    "description": "Playful character-driven pest education.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/ants-everywhere.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/ants-everywhere-thumb-CquC0U75.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/1aTxrsNuHg1ydWIMRKJk97EJj497NfG3O/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/1aTxrsNuHg1ydWIMRKJk97EJj497NfG3O/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-farm-pest-control",
+    "slug": "farm-pest-control",
+    "title": "Farm Pest Control",
+    "description": "Agricultural safety & pest management story.",
+    "kind": "2D Animation",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/reference-projects/farm-pest-control.jpg",
+    "coverOriginal": "https://www.alvinjampazar.com/assets/farm-pest-thumb-Dqnxnl-t.jpg",
+    "media": {
+      "src": "https://drive.google.com/file/d/11otzRrSvWTnsavYhDBrQFr0tvOTB61sS/preview",
+      "type": "iframe"
+    },
+    "source": "https://drive.google.com/file/d/11otzRrSvWTnsavYhDBrQFr0tvOTB61sS/view",
+    "reference": "https://www.alvinjampazar.com/portfolio?category=animation-2d"
+  },
+  {
+    "id": "motion-studies",
+    "slug": "motion-studies",
+    "title": "Motion Studies",
+    "kind": "8 motion videos",
+    "description": "A collection of eight motion graphics compositions. Select a video to watch.",
+    "categories": [
+      "motion-graphics"
+    ],
+    "coverSrc": "assets/project-illustrations/motion-studies.png",
+    "source": "https://drive.google.com/drive/folders/1cwTPgKHmi-9pkK_AXQDtVYRaRDpLNX-D",
+    "reference": "User-supplied Drive folder",
+    "videos": [
+      {
+        "title": "Comp 1.mp4",
+        "src": "https://drive.google.com/file/d/1Pe1K0kwIBFht1DLo43MfDEeuc7rn-ZZW/preview",
+        "source": "https://drive.google.com/file/d/1Pe1K0kwIBFht1DLo43MfDEeuc7rn-ZZW/view",
+        "poster": "assets/motion-thumbnails/motion-study-01.jpg",
+        "posterAlt": "Illustrated motion study cover for Comp 1.mp4"
+      },
+      {
+        "title": "F-A.mp4",
+        "src": "https://drive.google.com/file/d/1KlBKnjSy8-9YA0Es-YIlPQ-Idtn0L1Uq/preview",
+        "source": "https://drive.google.com/file/d/1KlBKnjSy8-9YA0Es-YIlPQ-Idtn0L1Uq/view",
+        "poster": "assets/motion-thumbnails/motion-study-02.jpg",
+        "posterAlt": "Illustrated motion study cover for F-A.mp4"
+      },
+      {
+        "title": "F.A.mp4",
+        "src": "https://drive.google.com/file/d/13xkI0q_qBomq1RYmc7qjKXx7HjJoy7r6/preview",
+        "source": "https://drive.google.com/file/d/13xkI0q_qBomq1RYmc7qjKXx7HjJoy7r6/view",
+        "poster": "assets/motion-thumbnails/motion-study-03.jpg",
+        "posterAlt": "Illustrated motion study cover for F.A.mp4"
+      },
+      {
+        "title": "FA.mp4",
+        "src": "https://drive.google.com/file/d/1jp6sDJjnnUepMp4GKoOHCdea8_M5J8lU/preview",
+        "source": "https://drive.google.com/file/d/1jp6sDJjnnUepMp4GKoOHCdea8_M5J8lU/view",
+        "poster": "assets/motion-thumbnails/motion-study-04.jpg",
+        "posterAlt": "Illustrated motion study cover for FA.mp4"
+      },
+      {
+        "title": "Final ArtworkS.mp4",
+        "src": "https://drive.google.com/file/d/1gmFDhz4mS-UaS4deIhvQVeqBISyVtoDX/preview",
+        "source": "https://drive.google.com/file/d/1gmFDhz4mS-UaS4deIhvQVeqBISyVtoDX/view",
+        "poster": "assets/motion-thumbnails/motion-study-05.jpg",
+        "posterAlt": "Illustrated motion study cover for Final ArtworkS.mp4"
+      },
+      {
+        "title": "Final Composition.mp4",
+        "src": "https://drive.google.com/file/d/1L-W4hSM0hnXT0NKgg3yJwLboFybLVXhK/preview",
+        "source": "https://drive.google.com/file/d/1L-W4hSM0hnXT0NKgg3yJwLboFybLVXhK/view",
+        "poster": "assets/motion-thumbnails/motion-study-06.jpg",
+        "posterAlt": "Illustrated motion study cover for Final Composition.mp4"
+      },
+      {
+        "title": "Pre-comp 2.mp4",
+        "src": "https://drive.google.com/file/d/1MnR5_iRulI8G4FD965RRA3CIRbCaJRXJ/preview",
+        "source": "https://drive.google.com/file/d/1MnR5_iRulI8G4FD965RRA3CIRbCaJRXJ/view",
+        "poster": "assets/motion-thumbnails/motion-study-07.jpg",
+        "posterAlt": "Illustrated motion study cover for Pre-comp 2.mp4"
+      },
+      {
+        "title": "PV.mp4",
+        "src": "https://drive.google.com/file/d/1RKv35PkjdPZo63LLKmCBiab5nlRIel-1/preview",
+        "source": "https://drive.google.com/file/d/1RKv35PkjdPZo63LLKmCBiab5nlRIel-1/view",
+        "poster": "assets/motion-thumbnails/motion-study-08.jpg",
+        "posterAlt": "Illustrated motion study cover for PV.mp4"
+      }
+    ]
+  }
+]

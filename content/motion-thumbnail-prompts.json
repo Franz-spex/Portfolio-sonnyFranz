@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1,
+    "file": "assets/motion-thumbnails/motion-study-01.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 01 Comp 1: a dynamic composition of interlocking violet and coral circular shapes, a sweeping ribbon and a small animation timeline, playful geometric motion. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 2,
+    "file": "assets/motion-thumbnails/motion-study-02.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 02 F-A: luminous teal orbital trails looping around a cyan sphere against deep midnight navy, drawn in flat 2D graphic style with fine motion arcs. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 3,
+    "file": "assets/motion-thumbnails/motion-study-03.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 03 F.A: layered pastel lavender and mint panels with a flowing coral ribbon and geometric disks, a joyful animation storyboard composition. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 4,
+    "file": "assets/motion-thumbnails/motion-study-04.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 04 FA: a kinetic arrangement of floating typographic-like abstract blocks, lavender arches and coral zigzag strokes on pale aqua, no actual letters. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 5,
+    "file": "assets/motion-thumbnails/motion-study-05.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 05 Final ArtworkS: an illustrated creative workbench composition with stylus, overlapping colorful artboards, abstract flowers and vibrant drawn shapes. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 6,
+    "file": "assets/motion-thumbnails/motion-study-06.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 06 Final Composition: a carefully balanced collage of animation frames, sweeping bezier curves and a central coral arrow tracing a circular path. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 7,
+    "file": "assets/motion-thumbnails/motion-study-07.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 07 Pre-comp 2: mint green animated horizontal bars and squares transforming into a clean geometric landscape, elegant sparse off-white composition. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "index": 8,
+    "file": "assets/motion-thumbnails/motion-study-08.jpg",
+    "prompt": "Use case: stylized-concept. Create one standalone landscape 16:9 portfolio video thumbnail. Subject: 08 PV: an emerald and teal wave ribbon passing through concentric dark navy arches, dramatic motion trails and tiny mint sparks. Polished hand-crafted 2D editorial illustration, crisp flat shapes, subtle paper texture, strong readable silhouette and generous breathing room. Cohesive creative portfolio aesthetic. Fill the frame. No text, letters, numbers, labels, logos, borders, play button or UI chrome. This is an illustrative motion study cover, not a video still. Deliver one image only.",
+    "tool": "built-in image_gen"
+  }
+]

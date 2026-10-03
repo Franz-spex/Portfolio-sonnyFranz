@@ -1,0 +1,15 @@
+/* Locally bundled vector tool badges; retain the portfolio's glass surfaces. */
+#skills.creative-tools-section{display:flex;flex-direction:column;width:100%;min-width:0;gap:32px;scroll-margin-top:100px}
+#skills .tools-intro{text-align:center}
+#skills .tools-eyebrow{margin:0 0 12px;color:#9853db;font-size:12px;font-weight:700;letter-spacing:1.2px}
+#skills h2{margin:0;font-size:30px;line-height:1.3;font-weight:700;letter-spacing:-.7px;color:#1e293b}
+#skills .tool-category{display:flex;flex-direction:column;gap:24px;width:100%;min-width:0}
+#skills h3{margin:0;font-size:14px;line-height:1.5;font-weight:600;color:#526078;letter-spacing:.15px}
+#skills .tools-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;list-style:none;padding:0;margin:0}
+#skills .tool-card{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;min-width:0;min-height:128px;padding:22px 12px;border:1px solid #ffffffd9;border-radius:22px;background:linear-gradient(135deg,#ffffffa6,#ffffff47);backdrop-filter:blur(12px);box-shadow:var(--surface-shadow),inset 1px 1px 2px 1px #ffffffe6;transition:transform .2s ease}
+#skills .tool-card img{display:block;width:44px;height:44px;object-fit:contain;flex:none}
+#skills .tool-card span{font-size:12px;line-height:1.5;font-weight:600;color:#334155;text-align:center;overflow-wrap:anywhere}
+@media(hover:hover){#skills .tool-card:hover{transform:translateY(-3px)}}
+@media(max-width:900px){#skills .tools-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:480px){#skills .tools-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}#skills .tool-card{min-height:118px;padding:18px 8px}#skills h2{font-size:26px}}
+@media(prefers-reduced-motion:reduce){#skills .tool-card{transition:none}#skills .tool-card:hover{transform:none}}

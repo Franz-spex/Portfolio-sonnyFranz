@@ -1,0 +1,13 @@
+{
+  "name": "sonny-francis-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/check-portfolio.cjs",
+    "check": "node scripts/check-portfolio.cjs",
+    "build:pages": "node scripts/build-real-portfolio.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

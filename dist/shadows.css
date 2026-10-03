@@ -1,0 +1,9 @@
+/* Shared five-layer drop shadow from the supplied design specification. */
+:root {
+ --surface-shadow:
+  1px 4px 9px 0 rgba(192,201,211,.10),
+  4px 15px 16px 0 rgba(192,201,211,.09),
+  8px 35px 21px 0 rgba(192,201,211,.05),
+  14px 62px 25px 0 rgba(192,201,211,.01),
+  22px 96px 28px 0 rgba(192,201,211,0);
+}

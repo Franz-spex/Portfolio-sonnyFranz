@@ -1,0 +1,1 @@
+Personal logo: user-supplied FRNZ artwork, October 2, 2026. The SVG is a geometric reconstruction of the supplied image. Preserve its black mark and lettering on a transparent background, as requested by the user. Use frnz-logo.svg for branding and frnz-icon.svg for small browser icons. This is the portfolio owner's identity, not a client logo.
